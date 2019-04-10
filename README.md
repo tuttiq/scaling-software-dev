@@ -7,3 +7,5 @@ This repo is stores the code samples for my talk **Scaling Software Development:
 ## Index of code samples
 
 - Slide 20: [MVC structure](/src/)
+- Slide 21: [Fat Controllers](/src/controllers/fat_items_controller.rb)
+
