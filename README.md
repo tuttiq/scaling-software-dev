@@ -8,4 +8,5 @@ This repo is stores the code samples for my talk **Scaling Software Development:
 
 - Slide 20: [MVC structure](/src/)
 - Slide 21: [Fat Controllers](/src/controllers/fat_items_controller.rb)
-
+- Slide 26: [Notifiable module](/src/concerns/notifiable.rb)
+- Slide 28: [Fat Item](/src/models/fat_item.rb), [Item](/src/models/item.rb), [Color](/src/models/color.rb), [Picture](/src/models/picture.rb)
